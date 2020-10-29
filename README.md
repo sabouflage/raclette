@@ -26,6 +26,8 @@ Ca. 150 - 200g Fleisch / Fisch pro Esser. Es bietet sich an entweder Gulasch/Ges
 - Rinder
 - Puten
 - Garnelen
+- Fleischwurst
+- Chorizo
 
 ## Gemüse
 
@@ -39,6 +41,8 @@ Ca. 150 - 250g pro Esser
 - Silberzwiebeln
 - Mais
 - Chilis
+- Knoblauch
+- Bohnen
 
 ## Obst
 
