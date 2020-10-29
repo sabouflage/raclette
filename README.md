@@ -16,14 +16,15 @@ Ca. 200 - 250g pro Esser
 
 ## Fleisch / Fisch
 
-Ca. 150 - 200g Fleisch / Fisch pro Esser
+Ca. 150 - 200g Fleisch / Fisch pro Esser. Es bietet sich an entweder Gulasch/Geschnetzeltes zu nehmen oder das Fleisch entsprechend in kleine Teile zu zerschneiden, damit diese gut in ein Pfännchen passen. Sollte der Raclettegrill eine Grillfläche besitzen, können diese Stücke auch etwas größer ausfallen und auf der Grillfläche zubereitet werden.
 
 - Koch-Schinken
 - Speckwürfel
 - Bacon
 - Salami
-- Schweinegulasch/-geschnetzeltes
-- Rindergulasch/-geschnetzeltes
+- Schwein
+- Rinder
+- Puten
 - Garnelen
 
 ## Gemüse
