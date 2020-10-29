@@ -12,16 +12,19 @@ Ca. 200 - 250g pro Esser
 - Mozarella
 - Gorgonzola
 - Camenbert
+- Feta
 
-## Fleisch
+## Fleisch / Fisch
 
-Ca. 150 - 200g Fleisch pro Esser
+Ca. 150 - 200g Fleisch / Fisch pro Esser
 
 - Koch-Schinken
 - Speckwürfel
+- Bacon
 - Salami
 - Schweinegulasch/-geschnetzeltes
 - Rindergulasch/-geschnetzeltes
+- Garnelen
 
 ## Gemüse
 
@@ -34,6 +37,7 @@ Ca. 150 - 250g pro Esser
 - Cocktailtomaten
 - Silberzwiebeln
 - Mais
+- Chilis
 
 ## Obst
 
@@ -45,6 +49,13 @@ z.B. als Raclette Desert, da Dessert meist kleiner ausfällt nach einem üppigen
 - Apfel
 - Schokocreme
 - Vanillecreme
+
+## Saucen
+
+Nach Bedarf kann man die teilweise fettige oder eher trockenen Pfännchen mit etwas Sauce "liquidieren"
+
+- Tomatensauce (passierte Tomaten, Kräuter de Provence, Salz, Pfeffer, etwas Sahne/Butter)
+- Sauce Hollandaise (Butter, Ei, Salz)
 
 ## Sonstige Beilagen
 
