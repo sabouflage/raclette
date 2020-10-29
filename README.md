@@ -52,6 +52,7 @@ z.B. als Raclette Desert, da Dessert meist kleiner ausfällt nach einem üppigen
 - Banane
 - Nüsse
 - Apfel
+- Mandarine
 - Schokocreme
 - Vanillecreme
 
